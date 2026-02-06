@@ -1,4 +1,4 @@
-package algorithms
+package hashmap
 
 func HashMap(str string) int {
 	runes := []rune(str)

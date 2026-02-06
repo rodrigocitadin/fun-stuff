@@ -1,4 +1,4 @@
-package algorithms
+package slidingwindow
 
 import (
 	"math"

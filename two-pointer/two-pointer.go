@@ -1,4 +1,4 @@
-package algorithms
+package twopointer
 
 func TwoPointer[T any](arr []T) []T {
 	if len(arr) <= 1 {

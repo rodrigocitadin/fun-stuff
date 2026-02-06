@@ -1,13 +1,13 @@
-package algorithms
+package binarysearch
 
 func BinarySearch(arr []int, target int) int {
 	l := 0
 	r := len(arr)
 
-	return BinarySearchLogic(arr, target, l, r)
+	return binarySearchLogic(arr, target, l, r)
 }
 
-func BinarySearchLogic(arr []int, target int, l int, r int) int {
+func binarySearchLogic(arr []int, target int, l int, r int) int {
 	for l < r {
 		m := (l + r) / 2
 

@@ -1,3 +1,3 @@
-# Algorithms and Data Structures
+# Algorithms, data structures, and related topics
 
-The `algorithms` folder contains an example using that algorithm that was probably taken from some leetcode, and the `datastructs` folder has its implementation, e.g. `hashmap.go` has the implementation of a hashmap
+Just a repository for exploring solutions and fun things.
